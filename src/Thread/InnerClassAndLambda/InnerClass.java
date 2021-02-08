@@ -1,4 +1,4 @@
-package Thread.InnerClass3;
+package Thread.InnerClassAndLambda;
 
 public class InnerClass {
     public static void main(String[] args) {
